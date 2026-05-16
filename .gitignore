@@ -1,0 +1,13 @@
+# R session artefacts
+.RData
+.Rhistory
+*.Rout
+
+# runtime temp file
+cache.txt
+
+# generated plots
+Rplots.pdf
+
+# test data
+image_chips_testing/
